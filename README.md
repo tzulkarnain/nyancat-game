@@ -72,4 +72,4 @@ Having completed the basic section of this project is already great! However, th
 * Allow the player to shoot bullets at the Nyan Cats
 * Add another type of entity called `Bonus` that will also fall from the sky and add points to the score
 * Make the game more hardcore by allowing the player to also move up/down and making Nyan Cats also shoot from the left of the screen
-* **Don't stop!** These suggestions are only here to get you started :)
+* **Don't stop!** These suggestions are only here to get you started :)# nyancat-game
